@@ -1,5 +1,6 @@
 # E-Commerce Sales & Profit Performance Dashboard🚀
 ![Dashboard page 1](/dashboard.png)
+[view interactive dashboard here on the power bi service](https://app.powerbi.com/links/q8TFRslhpe?ctid=889a509c-859f-49b4-881d-db07c9a29169&pbi_source=linkShare)
 
 ## Introduction  
 
