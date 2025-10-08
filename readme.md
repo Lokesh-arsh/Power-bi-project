@@ -1,5 +1,5 @@
 # E-Commerce Sales & Profit Performance Dashboard🚀
-![Dashboard](/Power-bi-project/Dashboard.png)
+![Dashboard]("C:\Users\akash\OneDrive\Documents\power bi dashboard\Power-bi-project\Dashboard.png")
 
 
 ## Introduction  
