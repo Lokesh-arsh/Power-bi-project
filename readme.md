@@ -1,5 +1,5 @@
 # E-Commerce Sales & Profit Performance Dashboard🚀
-![Dashboard page 1](Dashboard.png)
+![Dashboard page 1](/Power-bi-project/Dashboard.png)
 
 ## Introduction  
 
@@ -52,7 +52,7 @@ The goal of these projects is to:
 ---
 ## Dashboard Overview   
 
-![Dashboard ](Dashboard.png)  
+![Dashboard ](/Power-bi-project/Dashboard.png)  
 
 ---
 
