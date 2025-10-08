@@ -1,6 +1,5 @@
 # E-Commerce Sales & Profit Performance Dashboard🚀
-![Dashboard](\Power-bi-project\Dashboard.png")
-
+![Dashboard](Dashboard.png)
 
 ## Introduction  
 
